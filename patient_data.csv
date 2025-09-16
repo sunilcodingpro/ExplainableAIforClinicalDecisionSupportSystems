@@ -1,0 +1,5 @@
+patient_id,age,gender,symptom_1,symptom_2,diagnosis
+1,45,M,Fever,Cough,Flu
+2,30,F,Headache,Fatigue,Migraine
+3,60,M,Chest Pain,Shortness of Breath,Angina
+4,29,F,Sore Throat,Fever,Tonsillitis
