@@ -1,0 +1,6 @@
+# config.yaml
+model:
+  name: "transformer"
+  version: "1.0"
+data:
+  path: "data/sample_patient_data.csv"
